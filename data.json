@@ -1,0 +1,672 @@
+{
+    "exercises": [
+        {
+            "text": "Hampelmann",
+            "categories": [
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/hampelmann.wav"
+        },
+        {
+            "text": "Sit-Ups",
+            "categories": [
+                "strength",
+                "cardio"
+            ],
+            "is_chiral": false,
+            "language": "en",
+            "audio": "audio/situps.wav"
+        },
+        {
+            "text": "Hüpfen auf einem Bein",
+            "categories": [
+                "cardio"
+            ],
+            "is_chiral": true,
+            "audio": "audio/hüpfen_auf_einem_bein.wav"
+        },
+        {
+            "text": "Seilsprung-Sprünge",
+            "categories": [
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/seilsprungsprünge.wav"
+        },
+        {
+            "text": "Seilspringen von Ferse zu Zeh",
+            "categories": [
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/seilspringen_von_ferse_zu_zeh.wav"
+        },
+        {
+            "text": "Knie hoch",
+            "categories": [
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/knie_hoch.wav"
+        },
+        {
+            "text": "Knie hoch mit Einfrieren",
+            "categories": [
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/knie_hoch_mit_einfrieren.wav"
+        },
+        {
+            "text": "Scherentritt",
+            "categories": [
+                "strength"
+            ],
+            "is_chiral": false,
+            "audio": "audio/scherentritt.wav"
+        },
+        {
+            "text": "Scherentritt über Kreuz",
+            "categories": [
+                "strength"
+            ],
+            "is_chiral": false,
+            "audio": "audio/scherentritt_über_kreuz.wav"
+        },
+        {
+            "text": "Fersen ans Gesäß",
+            "categories": [
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/fersen_ans_gesäß.wav"
+        },
+        {
+            "text": "Auf der Stelle rennen",
+            "categories": [
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/auf_der_stelle_rennen.wav"
+        },
+        {
+            "text": "Tritte nach Vorne",
+            "categories": [
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/tritte_nach_vorne.wav"
+        },
+        {
+            "text": "Windmühle",
+            "categories": [
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/windmühle.wav"
+        },
+        {
+            "text": "Beugen und Strecken",
+            "categories": [
+                "warmup",
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/beugen_und_strecken.wav"
+        },
+        {
+            "text": "Armkreisen",
+            "categories": [
+                "warmup",
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/armkreisen.wav"
+        },
+        {
+            "text": "Sprünge zur Seite",
+            "categories": [
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/sprünge_zur_seite.wav"
+        },
+        {
+            "text": "Schnell auf der Stelle laufen",
+            "categories": [
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/schnell_auf_der_stelle_laufen.wav"
+        },
+        {
+            "text": "Kniesprung",
+            "categories": [
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/kniesprung.wav"
+        },
+        {
+            "text": "Aufwärtshaken mit Bodenberührung",
+            "categories": [
+                "warmup",
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/aufwärtshaken_mit_bodenberührung.wav"
+        },
+        {
+            "text": "Skater",
+            "categories": [
+                "cardio"
+            ],
+            "is_chiral": false,
+            "language": "en",
+            "audio": "audio/skater.wav"
+        },
+        {
+            "text": "Hoher Hampelmann",
+            "categories": [
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/hoher_hampelmann.wav"
+        },
+        {
+            "text": "Bergsteiger im Stehen",
+            "categories": [
+                "warmup",
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/bergsteiger_im_stehen.wav"
+        },
+        {
+            "text": "Fröhlicher Hampelmann",
+            "categories": [
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/fröhlicher_hampelmann.wav"
+        },
+        {
+            "text": "Stehendes Knieheben über Kreuz",
+            "categories": [
+                "warmup",
+                "strength",
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/stehendes_knieheben_über_kreuz.wav"
+        },
+        {
+            "text": "Schulterdrücken",
+            "categories": [
+                "warmup",
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/schulterdrücken.wav"
+        },
+        {
+            "text": "Kniebeuge und Jabs",
+            "categories": [
+                "warmup",
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/kniebeuge_und_jabs.wav"
+        },
+        {
+            "text": "Seitlicher Kick und Bodenberührung",
+            "categories": [
+                "cardio"
+            ],
+            "is_chiral": true,
+            "audio": "audio/seitlicher_kick_und_bodenberührung.wav"
+        },
+        {
+            "text": "Oberkörper mit abwechselnder Fußstellung dehnen",
+            "categories": [
+                "warmup",
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/oberkörper_mit_abwechselnder_fußstellung_dehnen.wav"
+        },
+        {
+            "text": "Shuffle Schritt",
+            "categories": [
+                "warmup",
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/shuffle_schritt.wav"
+        },
+        {
+            "text": "Bruststrecker",
+            "categories": [
+                "warmup",
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/brustschtrecker.wav"
+        },
+        {
+            "text": "Arme über dem Kopf zusammenschlagen",
+            "categories": [
+                "warmup",
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/arme_über_dem_kopf_zusammenschlagen.wav"
+        },
+        {
+            "text": "Sterntritt",
+            "categories": [
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/sterntritt.wav"
+        },
+        {
+            "text": "Ausfallschritt nach Hinten",
+            "categories": [
+                "warmup",
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/ausfallschritt_nach_hinten.wav"
+        },
+        {
+            "text": "Butt Kick Repeat",
+            "categories": [
+                "cardio"
+            ],
+            "is_chiral": false,
+            "language": "en",
+            "audio": "audio/butt_kick_repeat.wav"
+        },
+        {
+            "text": "Knicks",
+            "categories": [
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/knicks.wav"
+        },
+        {
+            "text": "Russische Drehung",
+            "categories": [
+                "strength"
+            ],
+            "is_chiral": false,
+            "audio": "audio/russische_drehung.wav"
+        },
+        {
+            "text": "Unterarmstütz",
+            "categories": [
+                "strength"
+            ],
+            "is_chiral": false,
+            "audio": "audio/unterarmstütz.wav"
+        },
+        {
+            "text": "Unterarmstütz mit Schulterberührung",
+            "categories": [
+                "strength",
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/unterarmstütz_mit_schulterberührung.wav"
+        },
+        {
+            "text": "Armheben in T-Form",
+            "categories": [
+                "strength"
+            ],
+            "is_chiral": false,
+            "audio": "audio/armheben_in_tform.wav"
+        },
+        {
+            "text": "Beckenheben",
+            "categories": [
+                "strength"
+            ],
+            "is_chiral": false,
+            "audio": "audio/beckenheben.wav"
+        },
+        {
+            "text": "Quadraplex halten",
+            "categories": [
+                "strength"
+            ],
+            "is_chiral": true,
+            "audio": "audio/quadraplex_halten.wav"
+        },
+        {
+            "text": "Quadraplex im Liegen",
+            "categories": [
+                "strength"
+            ],
+            "is_chiral": false,
+            "audio": "audio/quadraplex_im_liegen.wav"
+        },
+        {
+            "text": "Wandsitzen",
+            "categories": [
+                "strength"
+            ],
+            "is_chiral": false,
+            "audio": "audio/wandsitzen.wav"
+        },
+        {
+            "text": "Supermann",
+            "categories": [
+                "strength"
+            ],
+            "is_chiral": false,
+            "audio": "audio/supermann.wav"
+        },
+        {
+            "text": "Flaschengeist",
+            "categories": [
+                "strength"
+            ],
+            "is_chiral": false,
+            "audio": "audio/flaschengeist.wav"
+        },
+        {
+            "text": "Knieheben zur Seite",
+            "categories": [
+                "warmup",
+                "strength"
+            ],
+            "is_chiral": false,
+            "audio": "audio/knieheben_zur_seite.wav"
+        },
+        {
+            "text": "Beinheben und Halten",
+            "categories": [
+                "strength"
+            ],
+            "is_chiral": false,
+            "audio": "audio/beinheben_und_halten.wav"
+        },
+        {
+            "text": "Seitlicher Stütz",
+            "categories": [
+                "strength"
+            ],
+            "is_chiral": true,
+            "audio": "audio/seitlicher_stütz.wav"
+        },
+        {
+            "text": "Crunches mit ausgestreckten Armen",
+            "categories": [
+                "strength"
+            ],
+            "is_chiral": false,
+            "audio": "audio/crunches_mit_ausgestreckten_armen.wav"
+        },
+        {
+            "text": "Umgekehrter Unterarmstütz",
+            "categories": [
+                "strength"
+            ],
+            "is_chiral": false,
+            "audio": "audio/umgekehrter_unterarmstütz.wav"
+        },
+        {
+            "text": "Boot-Pose",
+            "categories": [
+                "strength"
+            ],
+            "is_chiral": false,
+            "audio": "audio/bootpose.wav"
+        },
+        {
+            "text": "Radfahren über Kreuz",
+            "categories": [
+                "strength",
+                "cardio"
+            ],
+            "is_chiral": false,
+            "audio": "audio/radfahren_über_kreuz.wav"
+        },
+        {
+            "text": "Crunches mit angehobenen Beinen",
+            "categories": [
+                "strength"
+            ],
+            "is_chiral": false,
+            "audio": "audio/crunches_mit_angehobenen_beinen.wav"
+        },
+        {
+            "text": "Beine öffnen und schließen",
+            "categories": [
+                "strength"
+            ],
+            "is_chiral": false,
+            "audio": "audio/beine_öffnen_und_schließen.wav"
+        },
+        {
+            "text": "Auf einem Bein nach vorne neigen",
+            "categories": [
+                "strength"
+            ],
+            "is_chiral": true,
+            "audio": "audio/auf_einem_bein_nach_vorne_neigen.wav"
+        },
+        {
+            "text": "Toter Käfer",
+            "categories": [
+                "strength"
+            ],
+            "is_chiral": false,
+            "audio": "audio/toter_käfer.wav"
+        },
+        {
+            "text": "Armheben einzeln nach hinten",
+            "categories": [
+                "warmup",
+                "strength"
+            ],
+            "is_chiral": false,
+            "audio": "audio/armheben_einzeln_nach_hinten.wav"
+        },
+        {
+            "text": "I Y T",
+            "categories": [
+                "strength"
+            ],
+            "is_chiral": false,
+            "audio": "audio/i_y_t.wav"
+        },
+        {
+            "text": "Arme nach Hinten ziehen",
+            "categories": [
+                "stretching"
+            ],
+            "is_chiral": false,
+            "audio": "audio/arme_nach_hinten_ziehen.wav"
+        },
+        {
+            "text": "Zehenspitzen hoch ziehen",
+            "categories": [
+                "stretching"
+            ],
+            "is_chiral": true,
+            "audio": "audio/zehenspitzen_hoch_ziehen.wav"
+        },
+        {
+            "text": "Liegende Oberschenkeldehnung",
+            "categories": [
+                "stretching"
+            ],
+            "is_chiral": true,
+            "audio": "audio/liegende_oberschenkeldehnung.wav"
+        },
+        {
+            "text": "Dehnung der Hüftbeuger",
+            "categories": [
+                "stretching"
+            ],
+            "is_chiral": true,
+            "audio": "audio/dehnung_der_hüftbeuger.wav"
+        },
+        {
+            "text": "Dehnung mit Armen über dem Kopf",
+            "categories": [
+                "stretching"
+            ],
+            "is_chiral": true,
+            "audio": "audio/dehnung_mit_armen_über_dem_kopf.wav"
+        },
+        {
+            "text": "Dehnübung für Arme und Schultern",
+            "categories": [
+                "stretching"
+            ],
+            "is_chiral": true,
+            "audio": "audio/dehnübung_für_arme_und_schultern.wav"
+        },
+        {
+            "text": "Dehnübung für den unteren Rücken",
+            "categories": [
+                "stretching"
+            ],
+            "is_chiral": true,
+            "audio": "audio/dehnübung_für_den_unteren_rücken.wav"
+        },
+        {
+            "text": "Kniesehnendehnung im Sitzen",
+            "categories": [
+                "stretching"
+            ],
+            "is_chiral": true,
+            "audio": "audio/kniesehnendehnung_im_sitzen.wav"
+        },
+        {
+            "text": "Liegende Dehnübung mit Knie auf Brust",
+            "categories": [
+                "stretching"
+            ],
+            "is_chiral": true,
+            "audio": "audio/liegende_dehnübung_mit_knie_auf_brust.wav"
+        },
+        {
+            "text": "Quadrizeps-Dehnung",
+            "categories": [
+                "stretching"
+            ],
+            "is_chiral": true,
+            "audio": "audio/quadrizepsdehnung.wav"
+        },
+        {
+            "text": "Pomuskeldehnung",
+            "categories": [
+                "stretching"
+            ],
+            "is_chiral": true,
+            "audio": "audio/pomuskeldehnung.wav"
+        },
+        {
+            "text": "Schulterrolle",
+            "categories": [
+                "stretching"
+            ],
+            "is_chiral": false,
+            "audio": "audio/schulterrolle.wav"
+        },
+        {
+            "text": "Seitliches Dehnen",
+            "categories": [
+                "stretching"
+            ],
+            "is_chiral": false,
+            "audio": "audio/seitliches_dehnen.wav"
+        }
+    ],
+    "miscellaneous": {
+        "1": {
+            "text": "Eins",
+            "audio": "audio/eins.wav"
+        },
+        "2": {
+            "text": "Zwei",
+            "audio": "audio/zwei.wav"
+        },
+        "3": {
+            "text": "Drei",
+            "audio": "audio/drei.wav"
+        },
+        "4": {
+            "text": "Vier",
+            "audio": "audio/vier.wav"
+        },
+        "5": {
+            "text": "Fünf",
+            "audio": "audio/fünf.wav"
+        },
+        "6": {
+            "text": "Sechs",
+            "audio": "audio/sechs.wav"
+        },
+        "7": {
+            "text": "Sieben",
+            "audio": "audio/sieben.wav"
+        },
+        "8": {
+            "text": "Acht",
+            "audio": "audio/acht.wav"
+        },
+        "9": {
+            "text": "Neun",
+            "audio": "audio/neun.wav"
+        },
+        "10": {
+            "text": "Zehn",
+            "audio": "audio/zehn.wav"
+        },
+        "set": {
+            "text": "Set",
+            "audio": "audio/set.wav"
+        },
+        "of": {
+            "text": "von",
+            "audio": "audio/von.wav"
+        },
+        "next": {
+            "text": "Nächste Übung:",
+            "audio": "audio/nächste_übung.wav"
+        },
+        "exercise_start": {
+            "text": "Fang An!",
+            "audio": "audio/fang_an.wav"
+        },
+        "break": {
+            "text": "Mach eine Pause!",
+            "audio": "audio/mach_eine_pause.wav"
+        },
+        "change_sides": {
+            "text": "Wechsel die Seite!",
+            "audio": "audio/wechsel_die_seite.wav"
+        },
+        "continue": {
+            "text": "Weiter geht's!",
+            "audio": "audio/weiter_gehts.wav"
+        },
+        "workout_start": {
+            "text": "Los gehts!",
+            "audio": "audio/los_gehts.wav"
+        },
+        "workout_end": {
+            "text": "Gut gemacht! Du bist fertig für heute.",
+            "audio": "audio/gut_gemacht_du_bist_fertig_für_heute.wav"
+        }
+    },
+    "audio_folder": "audio"
+}
