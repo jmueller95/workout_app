@@ -68,7 +68,7 @@ def loadNewAudio(data):
 
     if is_data_changed:
         print("\n\n")
-    with open("data.json", "w") as outfile:
+    with open("exercises.json", "w") as outfile:
         json.dump(data, outfile, ensure_ascii=False, indent=4)
 
 
@@ -78,8 +78,8 @@ def createHIITExerciseList(data, n_exercises):
         n_exercises -= remainder
         print("For HIIT, the number of exercises needs to be a multiple of three.\n"
               "Effective number of exercises will be {}.".format(n_exercises))
-    low_intensity_pool = [ex for ex in data['exercises'] if 'hiit_low' in ex['categories']]
-    high_intensity_pool = [ex for ex in data['exercises'] if 'hiit_high' in ex['categories']]
+    low_intensity_pool = [ex for ex in data['exercises'] if 'warmup' in ex['categories']]
+    high_intensity_pool = [ex for ex in data['exercises'] if 'hiit' in ex['categories']]
     low_intensity_list = sample(low_intensity_pool, min(len(low_intensity_pool), int(n_exercises * 2 / 3)))
     high_intensity_list = sample(high_intensity_pool, min(len(high_intensity_pool), int(n_exercises * 1 / 3)))
     # Now we zip the two lists 2:1 so that two low-intensity exercises are alternating with one high-intensity exercise
@@ -106,7 +106,7 @@ def main():
         args.break_duration = 0
 
     # Load all exercises
-    with open("data.json") as infile:
+    with open("exercises.json") as infile:
         data = json.load(infile)
 
     # Add audio for all exercises where audio is null and, if add the new audiofile paths to the json file

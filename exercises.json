@@ -3,7 +3,7 @@
         {
             "text": "Hampelmann",
             "categories": [
-                "hiit_high",
+                "hiit",
                 "cardio"
             ],
             "is_chiral": false,
@@ -12,21 +12,12 @@
         {
             "text": "Burpees",
             "categories": [
-                "hiit_high",
+                "hiit",
                 "cardio"
             ],
             "is_chiral": false,
             "language": "en",
             "audio": "audio/burpees.wav"
-        },
-        {
-            "text": "Kniebeuge mit Strecksprung",
-            "categories": [
-                "hiit_high",
-                "cardio"
-            ],
-            "is_chiral": false,
-            "audio": "audio/kniebeuge_mit_strecksprung.wav"
         },
         {
             "text": "Sit-Ups",
@@ -35,7 +26,7 @@
                 "cardio",
                 "running",
                 "knee",
-                "hiit_high"
+                "hiit"
             ],
             "is_chiral": false,
             "language": "en",
@@ -47,7 +38,7 @@
                 "cardio",
                 "strength",
                 "running",
-                "hiit_low"
+                "warmup"
             ],
             "is_chiral": true,
             "audio": "audio/hüpfen_auf_einem_bein.wav"
@@ -56,7 +47,7 @@
             "text": "Seilsprung-Sprünge",
             "categories": [
                 "cardio",
-                "hiit_low"
+                "warmup"
             ],
             "is_chiral": false,
             "audio": "audio/seilsprungsprünge.wav"
@@ -65,7 +56,7 @@
             "text": "Seilspringen von Ferse zu Zeh",
             "categories": [
                 "cardio",
-                "hiit_low"
+                "warmup"
             ],
             "is_chiral": false,
             "audio": "audio/seilspringen_von_ferse_zu_zeh.wav"
@@ -74,7 +65,7 @@
             "text": "Knie hoch",
             "categories": [
                 "cardio",
-                "hiit_high"
+                "hiit"
             ],
             "is_chiral": false,
             "audio": "audio/knie_hoch.wav"
@@ -82,23 +73,16 @@
         {
             "text": "Knie hoch mit Einfrieren",
             "categories": [
-                "cardio"
+                "cardio",
+                "warmup"
             ],
             "is_chiral": false,
             "audio": "audio/knie_hoch_mit_einfrieren.wav"
         },
         {
-            "text": "Scherentritt",
-            "categories": [
-                "not-strength"
-            ],
-            "is_chiral": false,
-            "audio": "audio/scherentritt.wav"
-        },
-        {
             "text": "Scherentritt über Kreuz",
             "categories": [
-                "not-strength"
+                "warmup"
             ],
             "is_chiral": false,
             "audio": "audio/scherentritt_über_kreuz.wav"
@@ -107,7 +91,7 @@
             "text": "Fersen ans Gesäß",
             "categories": [
                 "cardio",
-                "hiit_high"
+                "hiit"
             ],
             "is_chiral": false,
             "audio": "audio/fersen_ans_gesäß.wav"
@@ -116,7 +100,7 @@
             "text": "Auf der Stelle rennen",
             "categories": [
                 "cardio",
-                "hiit_high"
+                "hiit"
             ],
             "is_chiral": false,
             "audio": "audio/auf_der_stelle_rennen.wav"
@@ -126,7 +110,7 @@
             "categories": [
                 "cardio",
                 "knee",
-                "hiit_high"
+                "hiit"
             ],
             "is_chiral": false,
             "audio": "audio/tritte_nach_vorne.wav"
@@ -136,7 +120,7 @@
             "categories": [
                 "cardio",
                 "knee",
-                "hiit_low"
+                "warmup"
             ],
             "is_chiral": false,
             "audio": "audio/windmühle.wav"
@@ -146,8 +130,7 @@
             "categories": [
                 "warmup",
                 "cardio",
-                "knee",
-                "hiit_low"
+                "knee"
             ],
             "is_chiral": false,
             "audio": "audio/beugen_und_strecken.wav"
@@ -157,8 +140,7 @@
             "categories": [
                 "warmup",
                 "cardio",
-                "knee",
-                "hiit_low"
+                "knee"
             ],
             "is_chiral": false,
             "audio": "audio/armkreisen.wav"
@@ -167,7 +149,7 @@
             "text": "Sprünge zur Seite",
             "categories": [
                 "cardio",
-                "hiit_high"
+                "hiit"
             ],
             "is_chiral": false,
             "audio": "audio/sprünge_zur_seite.wav"
@@ -176,7 +158,7 @@
             "text": "Schnell auf der Stelle laufen",
             "categories": [
                 "cardio",
-                "hiit_high"
+                "hiit"
             ],
             "is_chiral": false,
             "audio": "audio/schnell_auf_der_stelle_laufen.wav"
@@ -185,7 +167,7 @@
             "text": "Kniesprung",
             "categories": [
                 "cardio",
-                "hiit_high"
+                "hiit"
             ],
             "is_chiral": false,
             "audio": "audio/kniesprung.wav"
@@ -227,21 +209,12 @@
             "audio": "audio/bergsteiger_im_stehen.wav"
         },
         {
-            "text": "Fröhlicher Hampelmann",
-            "categories": [
-                "cardio"
-            ],
-            "is_chiral": false,
-            "audio": "audio/fröhlicher_hampelmann.wav"
-        },
-        {
             "text": "Stehendes Knieheben über Kreuz",
             "categories": [
-                "warmup",
                 "strength",
                 "cardio",
                 "knee",
-                "hiit_low"
+                "warmup"
             ],
             "is_chiral": false,
             "audio": "audio/stehendes_knieheben_über_kreuz.wav"
@@ -249,10 +222,9 @@
         {
             "text": "Schulterdrücken",
             "categories": [
-                "warmup",
                 "cardio",
                 "knee",
-                "hiit_low"
+                "warmup"
             ],
             "is_chiral": false,
             "audio": "audio/schulterdrücken.wav"
@@ -260,27 +232,25 @@
         {
             "text": "Kniebeuge und Jabs",
             "categories": [
-                "warmup",
                 "cardio",
-                "hiit_low"
+                "warmup"
             ],
             "is_chiral": false,
             "audio": "audio/kniebeuge_und_jabs.wav"
         },
         {
-            "text": "Seitlicher Kick und Bodenberührung",
+            "text": "Trippeln und Jabs",
             "categories": [
-                "cardio"
+                "cardio",
+                "hiit"
             ],
-            "is_chiral": true,
-            "audio": "audio/seitlicher_kick_und_bodenberührung.wav"
+            "is_chiral": false
         },
         {
             "text": "Oberkörper mit abwechselnder Fußstellung dehnen",
             "categories": [
-                "warmup",
                 "cardio",
-                "hiit_low"
+                "warmup"
             ],
             "is_chiral": false,
             "audio": "audio/oberkörper_mit_abwechselnder_fußstellung_dehnen.wav"
@@ -297,28 +267,18 @@
         {
             "text": "Bruststrecker",
             "categories": [
-                "warmup",
                 "cardio",
                 "knee",
-                "hiit_low"
+                "warmup"
             ],
             "is_chiral": false,
             "audio": "audio/brustschtrecker.wav"
         },
         {
-            "text": "Hinknien und Aufstehen",
-            "categories": [
-                "cardio",
-                "hiit_high"
-            ],
-            "is_chiral": false,
-            "audio": "audio/hinknien_und_aufstehen.wav"
-        },
-        {
             "text": "Bergsteiger im Unterarmstütz",
             "categories": [
                 "cardio",
-                "hiit_high"
+                "hiit"
             ],
             "is_chiral": false,
             "audio": "audio/bergsteiger_im_unterarmstütz.wav"
@@ -364,28 +324,11 @@
             "text": "Single Leg Glute Bridge",
             "categories": [
                 "cardio",
-                "hiit_low"
+                "warmup"
             ],
             "is_chiral": true,
             "language": "en",
             "audio": "audio/single_leg_glute_bridge.wav"
-        },
-        {
-            "text": "Brücke mit Bein Anziehen",
-            "categories": [
-                "cardio",
-                "hiit_low"
-            ],
-            "is_chiral": false,
-            "audio": "audio/brücke_mit_bein_anziehen.wav"
-        },
-        {
-            "text": "Knicks",
-            "categories": [
-                "cardio"
-            ],
-            "is_chiral": false,
-            "audio": "audio/knicks.wav"
         },
         {
             "text": "Russische Drehung",
@@ -402,7 +345,7 @@
                 "strength",
                 "running",
                 "knee",
-                "hiit_low"
+                "warmup"
             ],
             "is_chiral": false,
             "audio": "audio/unterarmstütz.wav"
@@ -414,7 +357,7 @@
                 "cardio",
                 "running",
                 "knee",
-                "hiit_high"
+                "hiit"
             ],
             "is_chiral": false,
             "audio": "audio/unterarmstütz_mit_schulterberührung.wav"
@@ -460,7 +403,7 @@
             "categories": [
                 "strength",
                 "knee",
-                "hiit_high"
+                "hiit"
             ],
             "is_chiral": false,
             "audio": "audio/wandsitzen.wav"
@@ -508,7 +451,7 @@
                 "strength",
                 "running",
                 "knee",
-                "hiit_low"
+                "warmup"
             ],
             "is_chiral": true,
             "audio": "audio/seitlicher_stütz.wav"
@@ -519,7 +462,7 @@
                 "strength",
                 "running",
                 "knee",
-                "hiit_low"
+                "warmup"
             ],
             "is_chiral": false,
             "audio": "audio/unterarmstütz_mit_beinheben.wav"
@@ -530,7 +473,7 @@
                 "strength",
                 "running",
                 "knee",
-                "hiit_high"
+                "hiit"
             ],
             "is_chiral": false,
             "audio": "audio/crunches_mit_ausgestreckten_armen.wav"
@@ -543,14 +486,6 @@
             ],
             "is_chiral": false,
             "audio": "audio/umgekehrter_unterarmstütz.wav"
-        },
-        {
-            "text": "Boot-Pose",
-            "categories": [
-                "not-strength"
-            ],
-            "is_chiral": false,
-            "audio": "audio/bootpose.wav"
         },
         {
             "text": "Radfahren über Kreuz",
@@ -571,14 +506,6 @@
             "audio": "audio/crunches_mit_angehobenen_beinen.wav"
         },
         {
-            "text": "Beine öffnen und schließen",
-            "categories": [
-                "not-strength"
-            ],
-            "is_chiral": false,
-            "audio": "audio/beine_öffnen_und_schließen.wav"
-        },
-        {
             "text": "Auf einem Bein nach vorne neigen",
             "categories": [
                 "strength"
@@ -593,23 +520,6 @@
             ],
             "is_chiral": false,
             "audio": "audio/toter_käfer.wav"
-        },
-        {
-            "text": "Armheben einzeln nach hinten",
-            "categories": [
-                "warmup",
-                "strength"
-            ],
-            "is_chiral": false,
-            "audio": "audio/armheben_einzeln_nach_hinten.wav"
-        },
-        {
-            "text": "I Y T",
-            "categories": [
-                "not-strength"
-            ],
-            "is_chiral": false,
-            "audio": "audio/i_y_t.wav"
         },
         {
             "text": "Arme nach Hinten ziehen",
